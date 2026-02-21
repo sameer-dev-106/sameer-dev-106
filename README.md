@@ -1,46 +1,60 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | Learning Web Dev with Cohort 2.0</h3>
+<h3 align="center">Full Stack Developer in Training | Building Real World Web Applications</h3>
 
 ---
 
-### 🌱 Currently Learning:
-- HTML, CSS, and JavaScript  
-- Building small web projects daily  
-- Exploring Git, GitHub, and version control
+## 🚀 About Me
+
+I am a disciplined and consistent developer focused on becoming job ready as a Full Stack Developer.
+
+• Currently mastering JavaScript and frontend fundamentals  
+• Learning backend development step by step  
+• Building projects regularly to strengthen real world skills  
+• Goal: High paying remote Full Stack Developer role  
 
 ---
 
-### 💻 About Me:
-- 🔭 I’m on a journey to become a **Full Stack Developer**
-- 🌍 From India 🇮🇳
-- 💬 Ask me about: Web Development, HTML, CSS, JavaScript
-- ⚡ Fun fact: I believe consistency beats talent every time
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameer-dev-106&show_icons=true&theme=tokyonight" alt="sameer-dev-106" />
-</p>
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sameer-dev-106&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python" />
 </p>
 
 ---
 
-### 🤝 Let's Connect:
-- 💼 [LinkedIn](https://linkedin.com/in/sameer-kumar-0a8036385)
-- 🐦 [Twitter (X)](https://twitter.com/)  
-- 🌐 Portfolio: Coming Soon!
+## 📌 Featured Projects
+
+### 🔹 Smart Billing Calculator  
+Item based billing system with clean UI and logical calculation system.
+
+### 🔹 Snake Game  
+Classic JavaScript game with score tracking and difficulty logic.
+
+### 🔹 Notes CRUD App  
+Basic Create Read Update Delete functionality with structured logic.
 
 ---
 
-⭐ **"Consistency. Learning. Growth."**
+## 📈 Development Focus
+
+• Writing clean and structured code  
+• Understanding core JavaScript deeply  
+• Moving towards full MERN stack development  
+• Improving problem solving and system thinking  
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn  
+https://linkedin.com/in/sameer-kumar-0a8036385  
+
+🐦 Twitter (X)  
+https://x.com/SameerDev106
+
+🌐 Portfolio  
+Coming Soon  
+
+---
+
+⭐ Consistency. Learning. Growth.
