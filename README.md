@@ -17,7 +17,7 @@ I am a disciplined and consistent developer focused on becoming job ready as a F
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,docker,git,github,python,ubuntu,linux,vscode" />
 </p>
 
 ---
