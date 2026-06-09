@@ -4,10 +4,6 @@
 Full Stack Developer • MERN Stack • Building AI Powered Products & Real World Software
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameer-dev-106&label=Profile%20Views&color=0e75b6&style=flat" alt="sameer-dev-106" />
-</p>
-
 ---
 
 ## 🚀 About Me
