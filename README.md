@@ -1,60 +1,101 @@
 <h1 align="center">Hi 👋, I'm Sameer</h1>
-<h3 align="center">Full Stack Developer in Training | Building Real World Web Applications</h3>
+
+<h3 align="center">
+Full Stack Developer • MERN Stack • Building AI Powered Products & Real World Software
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameer-dev-106&label=Profile%20Views&color=0e75b6&style=flat" alt="sameer-dev-106" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a disciplined and consistent developer focused on becoming job ready as a Full Stack Developer.
+Full Stack Developer focused on building scalable web applications, AI-powered products, and software that solves real-world problems.
 
-• Currently mastering JavaScript and frontend fundamentals  
-• Learning backend development step by step  
-• Building projects regularly to strengthen real world skills  
-• Goal: High paying remote Full Stack Developer role  
+* 🔭 Currently building **Hisaabo**, a Business Operating System for Indian SMBs
+* 🤖 Exploring AI integrations, intelligent automation, and modern web technologies
+* 🧱 Working with JavaScript, React, Node.js, Express.js, MongoDB, Git, and Docker
+* 📚 Continuously improving backend engineering, system design, and software architecture
+* 🎯 Goal: Build impactful products and secure high-impact global remote opportunities
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,docker,git,github,python,ubuntu,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,docker,git,github,python,linux,ubuntu,vscode" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 💼 Featured Projects
 
-### 🔹 Smart Billing Calculator  
-Item based billing system with clean UI and logical calculation system.
+### 🔹 [Hissabo Design](https://github.com/sameer-dev-106/hisaabo-design)
+AI powered emotion detection and music recommendation platform using facial expression analysis and intelligent recommendations.
 
-### 🔹 Snake Game  
-Classic JavaScript game with score tracking and difficulty logic.
+`JavaScript` `AI` `Computer Vision`
 
-### 🔹 Notes CRUD App  
-Basic Create Read Update Delete functionality with structured logic.
+### 🔹 [Gyaan AI](https://github.com/sameer-dev-106/gyaan-ai)
+Perplexity-inspired AI search and answer engine — delivers intelligent, reliable responses.  
+`JavaScript` `AI` `Search Engine` `MERN`
+
+### 🔹 [HostKit](https://github.com/sameer-dev-106/hostKit)
+Developer utility kit — built for real-world hosting and deployment workflows.  
+`JavaScript` `DevOps` `Tooling`
+
+### 🔹 [Pixora](https://github.com/sameer-dev-106/pixora)
+Fullstack social media platform built on MERN stack with modern UI and real-time interactions.  
+`MongoDB` `Express` `React` `Node.js`
+
+### 🔹 [Moodify AI](https://github.com/sameer-dev-106/moodify-ai)
+AI-based emotion detection and music recommendation system using facial expression analysis via webcam.  
+`JavaScript` `AI` `Camera API` `Music Recommendation`
+
+### 🔹 [AI Battle Arena](https://github.com/sameer-dev-106/ai-battle-arena)
+Turn-based AI battle game — strategy meets JavaScript game logic.  
+`JavaScript` `Game Dev` `AI Logic`
 
 ---
 
-## 📈 Development Focus
+## 📈 Current Focus
 
-• Writing clean and structured code  
-• Understanding core JavaScript deeply  
-• Moving towards full MERN stack development  
-• Improving problem solving and system thinking  
+* 🏗️ Building Hisaabo, a Business Operating System for Indian SMBs
+* ⚛️ Strengthening React and Full Stack Development skills
+* 🔧 Expanding expertise in PostgreSQL, Drizzle ORM, and Fastify
+* 🧠 Improving Data Structures, Problem Solving, and System Design
+* 🤖 Building AI Powered Applications and Intelligent Features
+* 🚀 Creating production ready, scalable software
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sameer-dev-106&theme=github-dark" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn  
-https://linkedin.com/in/sameer-kumar-0a8036385  
-
-🐦 Twitter (X)  
-https://x.com/SameerDev106
-
-🌐 Portfolio  
-Coming Soon  
+<p align="center">
+<a href="https://linkedin.com/in/sameer-kumar-0a8036385" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/SameerDev106" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sameer.dev106@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
 ---
 
-⭐ Consistency. Learning. Growth.
+<p align="center">
+🚀 Building in public • Shipping real products • Improving every day
+</p>
