@@ -66,14 +66,6 @@ Turn-based AI battle game — strategy meets JavaScript game logic.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sameer-dev-106&theme=github-dark" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
