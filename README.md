@@ -69,11 +69,11 @@ Turn-based AI battle game — strategy meets JavaScript game logic.
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/sameer-kumar-0a8036385" target="_blank">
+<a href="https://linkedin.com/in/sameer-kumar-0a8036385" target="_blank" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://x.com/SameerDev106" target="_blank">
+<a href="https://x.com/SameerDev106" target="_blank" style="text-decoration: none;">
 <img src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
 &nbsp;&nbsp;&nbsp;
