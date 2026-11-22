@@ -10,10 +10,11 @@ Full Stack Developer • MERN Stack • Building AI Powered Products & Real Worl
 
 Full Stack Developer focused on building scalable web applications, AI-powered products, and software that solves real-world problems.
 
-* 🔭 Currently building **Hisaabo**, a Business Operating System for Indian SMBs
+* 🔭 Currently building **[Likhiyo](https://likhiyo.in)**, a billing + khata app and Business Operating System for Indian shopkeepers and SMBs (web app + Android, [Google Play](https://play.google.com/store/apps/details?id=in.likhiyo.app.twa))
 * 🤖 Exploring AI integrations, intelligent automation, and modern web technologies
-* 🧱 Working with JavaScript, React, Node.js, Express.js, MongoDB, Git, and Docker
+* 🧱 Working with TypeScript, React, React Native (Expo), Node.js, Fastify, PostgreSQL, Drizzle ORM, Redis, Docker, and AWS (plus the MERN stack)
 * 📚 Continuously improving backend engineering, system design, and software architecture
+* 💻 Daily driver: Arch Linux with KDE Plasma
 * 🎯 Goal: Build impactful products and secure high-impact global remote opportunities
 
 ---
@@ -21,17 +22,20 @@ Full Stack Developer focused on building scalable web applications, AI-powered p
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,docker,git,github,python,linux,ubuntu,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,redis,docker,aws,git,github,python,linux,arch,ubuntu,html,css,vscode" />
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔹 [Hissabo Design](https://github.com/sameer-dev-106/hisaabo-design)
-AI powered emotion detection and music recommendation platform using facial expression analysis and intelligent recommendations.
+### 🔹 [Likhiyo](https://likhiyo.in)
+Digital khata and billing app for Indian shopkeepers: customer ledger, GST invoices, reports, offline-first PWA and a native Android app, with business modes for dairy, tailor, aata chakki, restaurants, and wholesalers. Live at [app.likhiyo.in](https://app.likhiyo.in) and on [Google Play](https://play.google.com/store/apps/details?id=in.likhiyo.app.twa).  
+`TypeScript` `React` `React Native` `Fastify` `PostgreSQL`
 
-`JavaScript` `AI` `Computer Vision`
+### 🔹 Likhiyo Design *(private repo)*
+The complete design system behind Likhiyo: UI screens for mobile and desktop, system design document, and brand assets.  
+`Design` `UI/UX` `System Design`
 
 ### 🔹 [Gyaan AI](https://github.com/sameer-dev-106/gyaan-ai)
 Perplexity-inspired AI search and answer engine — delivers intelligent, reliable responses.  
@@ -57,9 +61,9 @@ Turn-based AI battle game — strategy meets JavaScript game logic.
 
 ## 📈 Current Focus
 
-* 🏗️ Building Hisaabo, a Business Operating System for Indian SMBs
-* ⚛️ Strengthening React and Full Stack Development skills
-* 🔧 Expanding expertise in PostgreSQL, Drizzle ORM, and Fastify
+* 🏗️ Building and shipping Likhiyo, a Business Operating System for Indian SMBs
+* ⚛️ Strengthening React, React Native, and Full Stack Development skills
+* 🔧 Going deeper on PostgreSQL, Drizzle ORM, Fastify, and offline-first sync
 * 🧠 Improving Data Structures, Problem Solving, and System Design
 * 🤖 Building AI Powered Applications and Intelligent Features
 * 🚀 Creating production ready, scalable software
